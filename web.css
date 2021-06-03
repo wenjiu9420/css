@@ -70,15 +70,18 @@ body{background: url(https://cdn.jsdelivr.net/gh/wenjiu9420/css/piaohao/style-2/
 /*注册以及登陆按钮*/
 .jinsom-sidebar-reg-btn,.jinsom-login-btn span:last-child,.jinsom-login-btn span:first-child,.jinsom-pop-login-form li.code input.jinsom-get-code {border-radius: 5px;background-color: #ec2546;}
 .jinsom-sidebar-login-btn,.jinsom-login-btn span.login{border-radius: 5px;background-color: #2581ff;}
-/*搜索*/
+/*搜索页面简单修改*/
 .jinsom-header-right .search i {color: #f44336;}
 .jinsom-pop-search-content span {color: #fff;cursor: pointer;line-height: 42px;font-size: 20px;border-radius: 0 3px 3px 0;background-color: #fff;padding: 0 15px;}
 .jinsom-pop-search-content span{background: #000;box-shadow: 0 3px 10px -1px #000!important;}
 .jinsom-pop-search-bbs .list li {text-align: left;margin-right: 8px;}
 .jinsom-pop-search-content input {border: 1px solid #eee;}
-.jinsom-pop-search.show {background: linear-gradient(to right bottom, #ffffff, #f6f6f6);width: 1300px;box-shadow: 0px 0px 0px 1500px rgba(0, 0, 0, 0.3);height: 630px;top: 53px;left: 16%;border-radius: 30px;transition-property: top;transition-duration: 0.8s;}
+.jinsom-pop-search.show {background: linear-gradient(to right bottom, #ffffff, #f6f6f6);width: 1000px;box-shadow: 0px 0px 0px 1500px rgba(0, 0, 0, 0.3);height: 680px;top: 53px;left: 23%;border-radius: 8px;transition-property: top;transition-duration: 0.8s;}
 .jinsom-search-header span {background: #000;box-shadow: 0 3px 10px -1px #000!important;color: #fff;}
 .jinsom-search-header input {border: 1px solid #eee;}
+.jinsom-pop-search .close {display: none;}
+
+
 /*充值提现*/
 .jinsom-mycredit-credit-type .recharge {
 background: #2c63ff!important;box-shadow: 0 3px 10px -1px #2c63ff!important;}
@@ -392,13 +395,7 @@ a[href$="author/1"] .name font:before
 .syntaxhighlighter td.gutter .line{line-height: 24px !important;font-size: 14px !important;}
 .syntaxhighlighter {border: 1px dashed #ccc!important;border-radius: 0!important;border-left: 5px solid #f97794!important;}
 .syntaxhighlighter .gutter{background-color: #e2e2e2!important;}
-/*下载页BUG修复*/
-.jinsom-bbs-single-custom-field.download {
-    overflow: hidden;
-}
-.jinsom-bbs-single-custom-field.download li {
-    display: block;
-}
+
 /*首页-媒体格子底部-自定义内容*/
 .yxyh1230a { width: var(--jinsom-width); margin: 0px auto 0; overflow: hidden; }
 .yxyh1230a a { float: left; height: 30px; width: calc((100% - 30px)/4); box-sizing: border-box; cursor: pointer; position: relative; overflow: hidden; margin-right: 10px; margin-top: 10px; background: #4CAF50; text-align: center; line-height: 30px; color: #fff;border-radius: var(--jinsom-border-radius); }
