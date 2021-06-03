@@ -423,3 +423,7 @@ a[href$="author/1"] .name font:before
 .navs .n-list.nav-txt span{}
 .navs .n-list.nav-txt span:hover{}
 .jinsom-main-content {padding-bottom: 1px;}
+/*表情包大小更改*/
+.jinsom-smile-form {width: 585px;min-height: auto;}
+.jinsom-smile-img {width: 36px;height: 36px;}
+img.wp-smiley {width: 36px !important;height: 36px !important;max-height: 36px !important;}
