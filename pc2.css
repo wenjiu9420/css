@@ -22,10 +22,6 @@ footer .left p{line-height: 30px;font-size: 14px;color: #a4a4a4;float: right;}
 footer .left ul{margin-top: 22px;border-top: 1px solid #4b4b4b;padding-top: 15px;}
 footer .left ul li{float: left;margin-right: 21px;}
 footer .left ul li a{display: block;color: #a4a4a4;font-size: 14px;height: 32px;line-height: 32px;}
-/*VIP变色*/
-@keyframes bg-color {0% { background-color: #e74c3c; }20% { background-color: #f1c40f; }40% { background-color: #1abc9c; }60% { background-color: #3498db; }80% { background-color: #9b59b6; }100% { background-color: #e74c3c; }}
-/*PC毛玻璃特效*/
-.layui-layer-shade {-webkit-backdrop-filter: blur(10px);backdrop-filter: blur(10px);opacity: 1!important;pointer-events: auto;background: rgba(120, 129, 147, .22);-webkit-transition: opacity .3s;transition: opacity .3s;-webkit-backface-visibility: hidden -webkit-transition-duration: .3s;background-color: #f5f5f500!important;}
 /*全站颜色变更*/
 .jinsom-topic-list li .follow{background-color: #2581ff; border: 1px solid #2581ff;}
 .jinsom-ranking-page-bottom li:hover,.jinsom-show-bbs-box-content li:hover,.jinsom-credit-recharge-type li.credit{border: 1px solid #2581ff;}
@@ -231,10 +227,6 @@ a[href$="author/1"] .name font:before
     animation-iteration-count: infinite;
     -webkit-animation-iteration-count: infinite;
 }
-/*官方头衔图标+头衔变色*/
-.jinsom-honor-官方{font-family: "jinsom-icon" !important;}
-.jinsom-honor-官方:before{content: "\e6dd";margin-right: 3px;}
-@keyframes slidebg {to{background-position:20vw;}}
 /*导航焦点颜色*/
 .jinsom-menu ul li a {
     font-size: 14px;
