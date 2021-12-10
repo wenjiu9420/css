@@ -36,7 +36,7 @@
 .jinsom-post-single-content h3 {
     font-size: 18px;
     font-weight: bold;
-    margin: 18px 0;
+    margin: 10px 0;
     border-bottom: 1px solid #eaeaea;
     padding-left: 26px;
 }
@@ -52,7 +52,7 @@
 .jinsom-publish-type-form.profile-qrcode #jinsom-qrcode{padding: 80px 0;background-color: #fff;border-radius: 15px;margin: 0 15px;}
 
 /*H4*/
-.jinsom-post-single-content h4 {font-size: 18px;font-weight: 700;margin: 25px 0 20px;border-left: 4px solid #f72d84;padding: 0 0 0 10px;line-height: 17px;}
+.jinsom-post-single-content h4 {font-size: 18px;font-weight: 700;margin: 10px 0 10px;border-left: 4px solid #f72d84;padding: 0 0 0 10px;line-height: 17px;}
 /*弹出发布*/
 .jinsom-publish-type-form { bottom: 20px; height:auto; top: auto; background: none; text-align: center; }
 .jinsom-publish-type-form .bottom { background: #fff; width: 90%; margin: 0 auto; overflow: hidden; border-radius:0 0 15px 15px; position: initial; }
