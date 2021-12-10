@@ -49,7 +49,7 @@ footer .left ul li a{display: block;color: #a4a4a4;font-size: 14px;height: 32px;
 /*设置偏好默认背景*/
 body{background: url(https://cdn.jsdelivr.net/gh/wenjiu9420/css/piaohao/style-2/bg.png) 50% 50% fixed repeat !important;overflow: auto!important;}
 /*H3帖子标签样式变更*/
-.jinsom-bbs-single-content h3 {font-size: 18px;font-weight: bold;margin: 18px 0;border-bottom: 1px solid #eaeaea;padding-left: 26px;}
+.jinsom-bbs-single-content h3 {font-size: 18px;font-weight: bold;margin: 10px 0;border-bottom: 1px solid #eaeaea;padding-left: 26px;}
 .jinsom-bbs-single-content h3:before {position: absolute;left: 0em;display: block;content: '##';color: #f72d84;}
 .jinsom-bbs-single-download-content H3 {font-size: 18px;font-weight: bold;margin: 18px 0;border-bottom: 1px solid #eaeaea;padding-left: 26px;}
 .jinsom-bbs-single-download-content h3:before {position: absolute;left: 0.6em;display: block;content: '##';color: #f72d84;}
@@ -195,7 +195,7 @@ a[href$="author/1"] .name font:before
 }
 /*H4*/
 .jinsom-single-content h4 {font-size: 18px;font-weight: 700;margin: 25px 0 20px;border-left: 4px solid #f72d84;padding: 0 0 0 10px;line-height: 17px;padding-top: 0 !important;margin-top: 2.93% !important;}
-.jinsom-bbs-single-content h4 {font-size: 18px;font-weight: 700;margin: 25px 0 20px;border-left: 4px solid #f72d84;padding: 0 0 0 10px;line-height: 17px;}
+.jinsom-bbs-single-content h4 {font-size: 18px;font-weight: 700;margin: 10px 0 10px;border-left: 4px solid #f72d84;padding: 0 0 0 10px;line-height: 17px;}
 .jinsom-single-content p {line-height: 2;}
 .jinsom-bbs-single-download-content H4{font-size: 18px;font-weight: 700;margin: 25px 0 20px;border-left: 4px solid #f72d84;padding: 0 0 0 10px;line-height: 17px;}
 
