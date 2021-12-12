@@ -51,10 +51,10 @@ body{background: url(https://cdn.jsdelivr.net/gh/wenjiu9420/css/piaohao/style-2/
 /*H3帖子标签样式变更*/
 .jinsom-bbs-single-content h3 {font-size: 18px;font-weight: bold;margin: 10px 0;border-bottom: 1px solid #eaeaea;padding-left: 26px;}
 .jinsom-bbs-single-content h3:before {position: absolute;left: 0em;display: block;content: '##';color: #f72d84;}
-.jinsom-bbs-single-download-content H3 {font-size: 18px;font-weight: bold;margin: 18px 0;border-bottom: 1px solid #eaeaea;padding-left: 26px;}
+.jinsom-bbs-single-download-content H3 {font-size: 18px;font-weight: bold;margin: 10px 0;border-bottom: 1px solid #eaeaea;padding-left: 26px;}
 .jinsom-bbs-single-download-content h3:before {position: absolute;left: 0.6em;display: block;content: '##';color: #f72d84;}
 /*H3文章标签样式变更*/
-.jinsom-single-content h3 {font-size: 18px;font-weight: bold;margin: 18px 0;border-bottom: 1px solid #eaeaea;padding-left: 26px;}
+.jinsom-single-content h3 {font-size: 18px;font-weight: bold;margin: 10px 0;border-bottom: 1px solid #eaeaea;padding-left: 26px;}
 .jinsom-single-content h3:before {position: absolute;left: 1em;display: block;content: '##';color: #f72d84;}
 /*论坛子分类*/
 .jinsom-bbs-cat-list li,.jinsom-bbs-cat-list li .right {width: 105px;height: auto;padding: 0;background: none;margin-bottom: 0;}
