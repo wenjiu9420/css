@@ -197,7 +197,7 @@ a[href$="author/1"] .name font:before
 .jinsom-single-content h4 {font-size: 18px;font-weight: 700;margin: 25px 0 20px;border-left: 4px solid #f72d84;padding: 0 0 0 10px;line-height: 17px;padding-top: 0 !important;margin-top: 2.93% !important;}
 .jinsom-bbs-single-content h4 {font-size: 18px;font-weight: 700;margin: 10px 0 10px;border-left: 4px solid #f72d84;padding: 0 0 0 10px;line-height: 17px;}
 .jinsom-single-content p {line-height: 2;}
-.jinsom-bbs-single-download-content H4{font-size: 18px;font-weight: 700;margin: 25px 0 20px;border-left: 4px solid #f72d84;padding: 0 0 0 10px;line-height: 17px;}
+.jinsom-bbs-single-download-content H4{font-size: 18px;font-weight: 700;margin: 10px 0 10px;border-left: 4px solid #f72d84;padding: 0 0 0 10px;line-height: 17px;}
 
 /*下载按钮美化*/
 .jinsom-file-download .btn{display:block;width:132px;height:50px;background-image:linear-gradient(#268aef,#268aef),linear-gradient(lime,#0f0);background-blend-mode:normal,normal;border-radius:4px;line-height:50px;position:relative;color:#fff;font-size:16px;text-align:center;text-decoration: none}
