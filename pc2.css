@@ -392,10 +392,10 @@ a[href$="author/1"] .name font:before
 
 /*首页-媒体格子底部-自定义内容*/
 .yxyh1230a { width: var(--jinsom-width); margin: 0px auto 0; overflow: hidden; }
-.yxyh1230a a { float: left; height: 30px; width: calc((100% - 30px)/4); box-sizing: border-box; cursor: pointer; position: relative; overflow: hidden; margin-right: 10px; margin-top: 10px; background: #4CAF50; text-align: center; line-height: 30px; color: #fff;border-radius: var(--jinsom-border-radius); }
-.yxyh1230a a:nth-child(2) { background: #FFC107;}
-.yxyh1230a a:nth-child(3) { background: #2196F3;} 
-.yxyh1230a a:nth-child(4) { margin-right: 0; background: #F44336;}
+.yxyh1230a a { float: left; height: 30px; width: calc((100% - 30px)/4); box-sizing: border-box; cursor: pointer; position: relative; overflow: hidden; margin-right: 10px; margin-top: 10px; background: #ffffff; text-align: center; line-height: 30px; color: #fb0101;border-radius: var(--jinsom-border-radius); }
+.yxyh1230a a:nth-child(2) { background: #ffffff;}
+.yxyh1230a a:nth-child(3) { background: #ffffff;} 
+.yxyh1230a a:nth-child(4) { margin-right: 0; background: #ffffff;}
 .yxyh1230a a:hover{opacity: 0.8;}
 @media (max-width: 1360px){.adssa { width: 1080px;}}
 @media (max-width: 1200px){.adssa { width: 1000px;}}
